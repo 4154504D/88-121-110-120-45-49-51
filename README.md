@@ -28,6 +28,11 @@ aWMgaW50byBhIG11bHRpLWxheWVyZWQgZW5jcnlwdGlvbiBlbmdpbmUu
 
 -_-_-_-_-_-_-_-_-_-_-_-_-_-_
 
+```bash
+git clone (https://github.com/4154504D/88-121-110-120-45-49-51.git)
+cd Xynx-13
+python -m xynx13
+```
 ## U3RhdHVz
 Q3VycmVudGx5IGluIGVhcmx5LXN0YWdlIGRldmVsb3BtZW50LgpDb3JlIGVuY3J5cHRpb24gbW9k
 dWxlcyB3aWxsIGJlIGltcGxlbWVudGVkIGluIHVwY29taW5nIHVwZGF0ZXMu
