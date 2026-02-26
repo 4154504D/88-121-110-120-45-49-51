@@ -27,9 +27,9 @@ cm9qZWN0IGlzIGludGVuZGVkIHRvIGdyb3cgZnJvbSBmb3VuZGF0aW9uYWwgZW5jb2RpbmcgbG9n
 aWMgaW50byBhIG11bHRpLWxheWVyZWQgZW5jcnlwdGlvbiBlbmdpbmUu
 
 -_-_-_-_-_-_-_-_-_-_-_-_-_-_
-
+# INSTALLATION GUIDE
 ```bash
-git clone (https://github.com/4154504D/88-121-110-120-45-49-51.git)
+git clone https://github.com/4154504D/88-121-110-120-45-49-51.git
 cd Xynx-13
 python -m xynx13
 ```
