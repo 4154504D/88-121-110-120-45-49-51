@@ -31,6 +31,7 @@ cd Xynx-13
 python Xynx-13.py
 ```
 You can open/run the file by going into the directory and execute it as a python OR in a py environment.
+For windows users who use default CMD-Pormpt Interface, use ("") for the FileName.
 
 ## Status
 Currently in early-stage development.
