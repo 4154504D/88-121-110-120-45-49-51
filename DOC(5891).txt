@@ -1,0 +1,105 @@
+## Legal Notice, Usage Terms, and Disclaimer
+
+Xynx-13 is an experimental ciphering framework developed for educational and researching purposes. The project is designed to explore reversible encryption mechanisms, layered transformation models, and modular cryptographic architecture using the Python standard library. 
+
+The framework provides functionality for encoding, decoding, and structured text transformation through algorithmic processes defined within the core system. Its primary purpose is to allow developers, students, and researchers to study encryption concepts, experiment with cipher design, and understand reversible transformation logic in a controlled and transparent environment.
+
+Xynx-13 does not claim to provide Level-4_Grade cryptographic security, certified data protection compliance, or formally audited encryption standards. The system is intended as a learning and experimental tool rather than a replacement for industry-approved cryptographic libraries.
+
+---
+
+### Permitted Use
+
+Subject to the license selected for this project ATPM, users are permitted to:
+
+- Study, analyze, and modify the source code.
+- Use the framework for educational and academic purposes.
+- Integrate the framework into research projects.
+- Extend or fork the repository under the terms of the applicable license.
+- Use the software in defensive cybersecurity research and controlled testing environments.
+
+All usage must comply with applicable local, national, and international laws.
+
+---
+
+### Prohibited Use
+
+The framework must not be used for:
+
+- Concealing illegal activities.
+- Evading lawful investigations.
+- Obstructing digital forensic processes.
+- Violating cybersecurity regulations.
+- Circumventing lawful surveillance or lawful interception mechanisms.
+- Misusing encryption in ways that conflict with established legal frameworks.
+
+Any attempt to use Xynx-13 for malicious, unlawful, or harmful purposes is strictly against the intent of the project.
+
+---
+
+### OSINT and Transparency Statement
+
+Xynx-13 is not designed to interfere with or undermine Open-Source Intelligence (OSINT) practices conducted within legal and ethical boundaries. The framework is intended for legitimate cryptographic experimentation and defensive research only.
+
+Users are solely responsible for ensuring that their application of this software does not obstruct lawful OSINT investigations, compliance procedures, or digital transparency regulations within their jurisdiction.
+
+---
+
+### No Warranty
+
+This software is provided "as is", without warranty of any kind, express or implied, including but not limited to:
+
+- Fitness for a particular purpose
+- Merchantability
+- Security guarantees
+- Compliance guarantees
+- Data protection assurances
+
+The author makes no representation that the software is free from vulnerabilities, errors, or unintended behavior; However there'll be updates and new commits everywhile so.
+
+---
+
+### Limitation of Liability
+
+Under no circumstances shall the author be held liable for:
+
+- Direct or indirect damages
+- Data loss
+- Financial loss
+- Security breaches
+- Legal consequences arising from misuse
+- Regulatory violations committed by end users
+
+The responsibility for lawful and ethical use rests entirely with the individual or organization deploying the software.
+
+---
+
+### Jurisdiction and Compliance
+
+Users of Xynx-13 are responsible for understanding and complying with:
+
+- The laws of their country of residence.
+- Export control regulations related to cryptographic software.
+- Data protection and cybersecurity regulations.
+- Applicable international treaties governing encryption technologies.
+
+If local laws restrict the use of encryption tools, it is the user’s responsibility to refrain from usage.
+
+---
+
+### Acceptance of Terms
+
+By cloning, downloading, modifying, or using Xynx-13, the user acknowledges that they:
+
+1. Have read and understood this notice.
+2. Agree to comply with all applicable laws.
+3. Accept full responsibility for their use of the software.
+4. Release the author from liability arising from misuse.
+
+---
+
+Project Name: < Xynx-13 >
+Version: Alpha_V1.23  
+Author: ATPM1  
+Year: 2026 
+License: ATPM
