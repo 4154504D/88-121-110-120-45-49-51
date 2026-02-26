@@ -28,8 +28,10 @@ The project is intended to grow from foundational encoding logic into a multi-la
 ```bash
 git clone https://github.com/4154504D/88-121-110-120-45-49-51.git
 cd Xynx-13
-python -m xynx13
+python Xynx-13.py
 ```
+You can open/run the file by going into the directory and execute it as a python OR in a py environment.
+
 ## Status
 Currently in early-stage development.
 Core encryption modules will be implemented in upcoming updates.
